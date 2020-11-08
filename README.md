@@ -1,9 +1,9 @@
 # budget-tracker
 ![badge: Uses-IndexedDB](https://img.shields.io/badge/Uses-IndexedDB-red) ![badge: Uses-PWA](https://img.shields.io/badge/Uses-PWA-orange) ![badge: Made-with-JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)  ![badge: Uses-MongoDB](https://img.shields.io/badge/Uses-MongoDB-green) [![MIT](https://img.shields.io/badge/License-MIT-blueviolet)](https://api.github.com/licenses/mit)
 
-![screenshot of Budget Tracker](./assets/screenshot.gif)
+![screenshot of Budget Tracker](./assets/Budget_Tracker.png)
 
-
+(https://aqueous-escarpment-07668.herokuapp.com/)
 
 Table Of Contents:
 
@@ -35,7 +35,7 @@ npm start
 ```
 and navigate to the localhost port displayed
 
-you can view a live demo here: [Deployed App]()
+you can view a live demo here: [Deployed App](https://aqueous-escarpment-07668.herokuapp.com/)
 
 ## License
 * MIT (LICENSE)
